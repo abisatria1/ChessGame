@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Cell.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Queen.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Rook.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/King.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/View/MainMenu.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/nbproject/build-impl.xml</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/ViewHandler/MainMenuHandler.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/ViewHandler/Driver.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Move.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/ViewHandler/WelcomeMenuHandler.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Handler.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Time.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/ViewHandler/RankHandler.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Knight.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/View/Rank.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Controller.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Bishop.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Main.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/View/Upgrade.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/View/WelcomePanel.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Game/Player.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Pawn.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/ViewHandler/UpgradeHandler.java</file>
+            <file>file:/D:/KULIAH/Matkul/semester%203/PBO/TUBES/ChessGame/src/Piece/Piece.java</file>
+        </group>
+    </open-files>
+</project-private>
